@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Tugas Flutter Pertama'),
     );
   }
 }
@@ -96,10 +96,10 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'Dwiki Septian Pradikta',
             ),
             Text(
-              '$_counter',
+              '2031710096',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
